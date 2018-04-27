@@ -1,0 +1,70 @@
+{
+  "data": {
+    "cid": 1003555,
+    "status": 1,
+    "sn": "137895849719",
+    "name": "乐巢KTV-前门0@integer(0,10)",
+    "project": "南昌智慧云眼项目",
+    "group": {
+      "id": "5a30f7822457958665da2414",
+      "name": "贵溪"
+    },
+    "addr": "@city(true)",
+    "geo": {
+      "latitude": "111.22",
+      "longitude": "111.44",
+      "address": "北京市海淀区新建宫门路19号",
+      "name": "颐和园"
+    },
+    "contact": "@integer(13800010001,13800010011)",
+    "resolution": "720",
+    "with_platform": 0,
+    "storage": "7",
+    "alarm": "@integer(0,1)",
+    "osd": "乐巢KTV-前门01",
+    "type": "互联网摄像机",
+    "brand": "爱耳目",
+    "image_invert": 1,
+    "ly_status": 4,
+    "ys_status": 1,
+    "version": {
+      "current": "V5.3.0 build 171020",
+      "latest": "V5.3.1 build 171017",
+      "status": 2,
+      "need_upgrade": 0
+    },
+    "model": "人脸抓拍机",
+    "status_light": 1,
+    "nightmode": 2,
+    "cover":
+      "http://api.topvdn.com/v2/snapshots/1003555/cover?client_token=42_0_1491046210_b6796b9cc448a52e208aa24797df20f1",
+    "playaddr":
+      "rtmp://61.55.16.141:1935/live/44_134283008_1472786690_f725a66b7ffb642495ad556a6652a5ff",
+    "alarm_info": {
+      "push": 1,
+      "count": 2,
+      "interval": 10,
+      "zone":
+        "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001111100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    "place": 1,
+    "detect_type": 1,
+    "min_face_size_width": 50,
+    "min_face_size_heigh": 50,
+    "min_face_size_type": 1,
+    "face_detect_confidence_level": 50,
+    "ys_upload_face_coordinate": 1,
+    "video_quality": 1,
+    "bitrate": 1000,
+    "bitlevel": 1,
+    "framerate": 1000,
+    "exposemode": 0,
+    "ai_face_ori": 1,
+    "ai_type": 0,
+    "ai_face_position": 2,
+    "ai_face_frame": [1, 2, 3],
+    "pic_server_address": "http://www.nicaicai.com"
+  },
+  "message": "",
+  "request_id": "56e83d08ea1e4c209af9b857c2a9abf8"
+}

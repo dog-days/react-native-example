@@ -1,0 +1,22 @@
+{
+  "data": {
+    "cameras|10": [
+      {
+        "cid": 1003555,
+        "status": "@integer(0,1)",
+        "brand": "iermu",
+        "name": "@city(true)-@integer(0,100)",
+        "group": "@city(true)",
+        "sn": "137898465003",
+        "cover": "@image('100x56')",
+        "playaddr":
+          "rtmp://61.55.16.141:1935/live/44_134283008_1472786690_f725a66b7ffb642495ad556a6652a5ff"
+      }
+    ],
+    "total": 42,
+    "page": 1,
+    "size": 10
+  },
+  "message": "",
+  "request_id": "56e83d08ea1e4c209af9b857c2a9abf8"
+}

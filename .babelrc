@@ -1,0 +1,19 @@
+{
+  "presets": ["react-native"],
+  "plugins": [
+    "transform-decorators-legacy",
+    ["import", { "libraryName": "antd-mobile" }],
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "assets": "./assets",
+          "src": "./src",
+          "libs": "./src/libs",
+          "view": "./src/view"
+        }
+      }
+    ]
+  ]
+}
